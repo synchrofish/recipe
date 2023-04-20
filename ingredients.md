@@ -6,7 +6,7 @@
 
 3 large eggs
 
-2 cups plain yogurt
+2 cups plain Balkan-type yogurt
 
 3 cups all-purpose flour
 
