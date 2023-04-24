@@ -1,3 +1,5 @@
+Let's begin!
+
 # Ingredients for raspberry, oats and yogurt muffins
 
 3/4 cup canola or other mild vegetable oil
@@ -19,3 +21,5 @@
 1/2 tsp. salt
 
 2 cups frozen raspberries (don't thaw them)
+
+Enjoy my recipe!
