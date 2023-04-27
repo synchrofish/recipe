@@ -1,5 +1,5 @@
 # Recipe Repository 
-This repository was created by GitHub user synchrofish to fullfill the assignment for the UBC Data Science Toolbox course. 
+This repository was created by GitHub user synchrofish to fullfill the assignment for the UBC Data Science Toolbox course. line 2 changed remotely
 
 The purpose of this assignment was to practice creating and tracking changes to Git repository. 
 
