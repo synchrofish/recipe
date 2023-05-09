@@ -7,7 +7,7 @@ The purpose of this assignment was to practice creating and tracking changes to 
 
 ## Content
 The recipe repository contains the instructions how to make delicious muffins
-Here are the main ingredients you need:
+Here are the ***main ingredients*** you need:
 * frozen raspberries
 * oats
 * natural yogurt
