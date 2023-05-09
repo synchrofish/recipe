@@ -6,7 +6,11 @@ This repository was created by GitHub user synchrofish to fullfill the assignmen
 The purpose of this assignment was to practice creating and tracking changes to Git repository. 
 
 ## Content
-The recipe repository contains the instructions how to make delicious raspberry, oats and yogurt muffins. 
+The recipe repository contains the instructions how to make delicious muffins
+Here are the main ingredients you need:
+* frozen raspberries
+* oats
+* natural yogurt
 
 ### Original recipe
 The recipe comes from Dinner with Julie blog.
