@@ -16,5 +16,7 @@ Here are the ***main ingredients*** you need:
 The recipe comes from Dinner with Julie blog.
 Here is the direct link to the original recipe:
 https://www.dinnerwithjulie.com/2013/01/20/raspberry-yogurt-muffins/
+Here is the final product:
+![The raspberry, oats and yogurt muffins are delicious!](/image.png "Baked muffins")
 last line changed locally
 ### This is a REMOTE change :-0
